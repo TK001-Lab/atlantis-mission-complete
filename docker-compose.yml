@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  # This file will be completed once all fragments are merged
+  # The ancient architects left this incomplete...
+  
+  placeholder:
+    image: alpine:latest
+    command: echo "Awaiting fragment assembly..."
