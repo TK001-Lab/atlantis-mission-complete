@@ -1,0 +1,27 @@
+📜 SCROLL OF THE FOUNDING
+
+When Atlantis first took form and shape,
+POSEIDON claimed this sacred cape.
+The god of seas, with power grand,
+Bestowed his blessing on this land.
+
+His temple stood in center square,
+Where people came from everywhere.
+The priests would chant the sacred code,
+To open paths on wisdom's road.
+
+════════════════════════════════════════════════════════
+🔑 SACRED CODE DISCOVERED! 🔑
+════════════════════════════════════════════════════════
+
+The ancient password is: TRIDENT_OF_THE_DEEP
+
+════════════════════════════════════════════════════════
+
+🎯 NEXT TASK: Navigate to the sealed-chamber directory.
+              Inside you'll find a locked script called
+              'unlock_chamber.sh'
+              
+              You must:
+              1. Give it execute permissions: chmod +x unlock_chamber.sh
+              2. Run it with the password: ./unlock_chamber.sh TRIDENT_OF_THE_DEEP

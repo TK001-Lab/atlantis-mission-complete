@@ -1,0 +1,17 @@
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║           TEMPLE OF ATLANTIS - ENTRANCE HALL              ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+
+Greetings, traveler.
+
+You stand at the entrance of the great Temple of Atlantis.
+The ancient architects left clues for those worthy enough to seek them.
+
+🔍 Your first task: Find the HIDDEN inscription.
+
+Hint: The ancients knew that not all treasures are visible 
+to the casual observer. Use your sight to see ALL.
+
+(Try: ls -la)

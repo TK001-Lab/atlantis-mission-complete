@@ -1,0 +1,20 @@
+════════════════════════════════════════════════════════
+🏺 ANCIENT INSCRIPTION DISCOVERED! 🏺
+════════════════════════════════════════════════════════
+
+Congratulations! You have found the first hidden artifact.
+
+The inscription reads:
+
+"In the Hall of Records, three fragments lie,
+Seek the scroll that speaks of time gone by.
+The word you seek is 'POSEIDON' true,
+Use it wisely, for it's the key to breakthrough."
+
+════════════════════════════════════════════════════════
+
+🎯 NEXT TASK: Navigate to the hall-of-records directory
+              and search for the scroll that contains
+              information about POSEIDON.
+
+Command hint: grep "POSEIDON" *.txt
